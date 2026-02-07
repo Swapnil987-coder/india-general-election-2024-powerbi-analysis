@@ -29,7 +29,7 @@ The solution consists of 6 interconnected dashboards:
 
 - NDA vs I.N.D.I.A comparison
 
-Bookmark-driven detail grid
+- Bookmark-driven detail grid
 
 2️⃣ State Demographic Analysis
 
@@ -75,7 +75,7 @@ Bookmark-driven detail grid
 
 - Clean UI design
 
-Home button across dashboards
+- Home button across dashboards
 
 #
 🧠 Data Modeling Approach
